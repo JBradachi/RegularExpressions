@@ -3,6 +3,8 @@ Repositório reservado para aprendizagem de espressões regulares em python
 
 Documentação de regex: https://docs.python.org/3/howto/regex.html
 
+ipynb: [Regex](https://colab.research.google.com/drive/1fJGOdUIOmwu4T2FOkjdFYXR96YtU9k-x?usp=sharing)
+
 # Guia rápido de expressões regulares:
 
 ![image](https://github.com/JBradachi/RegularExpressions/assets/105111795/a35b4a1a-93ca-49d7-a9cb-e88e808d7d9e)
